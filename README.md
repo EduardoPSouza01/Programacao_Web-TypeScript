@@ -1,21 +1,21 @@
 # WEB_01_2024
 
-## Aula_1_Tipos_Variaveis
+## Aula 1 Tipos_Variaveis
 
 ### [Aula_1_Tipos_Variaveis](./Aula_1_Tipos_Variaveis/)
 
-## Aula_2_Versionamento
+## Aula 2 Versionamento
 
 ### [Aula_2_Versionamento](./Aula_2_Versionamento/)
 
-## Aula_3_Funcoes
+## Aula 3 Funcoes
 
 ### [Aula_3_Funcoes](./Aula_3_Funcoes/)
 
-## Lista_Exercícios_Funcoes
+## Lista Exercícios Funcoes
 
 ### [Lista_Exercícios_Funcoes](./Lista_Exercícios_Funcoes/)
 
-## Aula_5_Exercícios
+## Aula 5 Exercícios
 
 ### [Aula_5_Exercícios](./Aula_5_Exercícios/)
