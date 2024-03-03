@@ -33,38 +33,24 @@ Crie uma função em TypeScript que valide se um CPF é válido ou não. O CPF �
     <tbody>
         <tr>
             <td>5</td>
-            <td>10</td>
-        </tr>
-        <tr>
             <td>2</td>
             <td>9</td>
-        </tr>
-        <tr>
             <td>9</td>
             <td>8</td>
-        </tr>
-        <tr>
-            <td>9</td>
+            <td>2</td>
+            <td>2</td>
+            <td>4</td>
             <td>7</td>
         </tr>
         <tr>
+            <td>10</td>
+            <td>9</td>
             <td>8</td>
+            <td>7</td>
             <td>6</td>
-        </tr>
-        <tr>
-            <td>2</td>
             <td>5</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>4</td>
-        </tr>
-        <tr>
             <td>4</td>
             <td>3</td>
-        </tr>
-        <tr>
-            <td>7</td>
             <td>2</td>
         </tr>
     </tbody>
@@ -100,42 +86,26 @@ Nesse caso, é preciso considerar os 9 primeiros dígitos junto do primeiro díg
     <tbody>
         <tr>
             <td>5</td>
+            <td>2</td>
+            <td>9</td>
+            <td>9</td>
+            <td>8</td>
+            <td>2</td>
+            <td>2</td>
+            <td>4</td>
+            <td>7</td>
+            <td>2</td>
+        </tr>
+        <tr>
             <td>11</td>
-        </tr>
-        <tr>
-            <td>2</td>
             <td>10</td>
-        </tr>
-        <tr>
             <td>9</td>
-            <td>9</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>8</td>
-        </tr>
-        <tr>
             <td>8</td>
             <td>7</td>
-        </tr>
-        <tr>
-            <td>2</td>
             <td>6</td>
-        </tr>
-        <tr>
-            <td>2</td>
             <td>5</td>
-        </tr>
-        <tr>
             <td>4</td>
-            <td>4</td>
-        </tr>
-        <tr>
-            <td>7</td>
             <td>3</td>
-        </tr>
-     <tr>
-            <td>2</td>
             <td>2</td>
         </tr>
     </tbody>
