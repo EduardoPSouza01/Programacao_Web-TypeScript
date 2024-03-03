@@ -59,7 +59,7 @@ array.</p>
  ### [Resolução Exercício 9](./src/EX09.ts)
 
  ## Exercício 10
- <p>rie uma função que calcule o fatorial de um número. Utilize essa função para
+ <p>Crie uma função que calcule o fatorial de um número. Utilize essa função para
 calcular o fatorial de diferentes números</p>
 
 ### [Resolução Exercício 10](./src/EX10.ts)
