@@ -30,7 +30,10 @@ class Calculadora{
         return this.num1 - this.num2;
     }
     dividir(){
-        return this.num1 / this.num2;
+        if(this.num2 == 0)
+            return 0;
+        else
+            return this.num1 / this.num2;
     }
     mult(){
         return this.num1 * this.num2;
@@ -44,6 +47,12 @@ class Calculadora{
 let calculadora:Calculadora= new Calculadora(2,5);
 console.log(calculadora.somar());
 console.log(calculadora.subitrair());
-console.log(calculadora.dividir());
 console.log(calculadora.mult());
 console.log(calculadora.porcetagem());
+
+let vericar = calculadora.dividir();
+
+if(vericar == 0)
+    console.log("Não existe divisão por zero!!");
+else
+    console.log(calculadora.dividir());

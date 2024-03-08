@@ -33,8 +33,28 @@ class Catalogo {
         this.quantidadeEmEstoque = quantidadeEmEstoque;
     }
 
+    calcularValorTotalEmEstoque(){
+        return this.preco * this.quantidadeEmEstoque;
+    }
+
+    reporEstoque(quantidade: number){
+        this.quantidadeEmEstoque += quantidade;
+    }
+    vender(qtd:number){
+        this.quantidadeEmEstoque -= qtd;
+    }
+
 }
 
-let cadastro = new Catalogo('Sapato', 245, 10 );
-console.log('O produto ' + cadastro.getNome + ' custa : ' + cadastro.getpreco + ' o mesmo possui ' + cadastro.getQuantidadeEmEstoque + ' em estoque');
+let cadastro = new Catalogo('Sapato', 10, 10 );
+cadastro.reporEstoque(50);
+cadastro.vender(2);
+
+
+
+
+
+
+
+
 
