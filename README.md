@@ -12,9 +12,17 @@
 
 ### [Aula_3_Funcoes](./Aula_3_Funcoes/)
 
-## Lista Exercícios Funcoes
+## Aula 4 Classe
+
+### [Aula_4_Classe](./Aula_4_Classes/)
+
+## Lista Exercícios Funções
 
 ### [Lista_Exercícios_Funcoes](./Lista_Exercícios_Funcoes/)
+
+## Lista Exercícios Classe
+
+### [Lista_Exercícios_Classe](./Lista_Exercícios_Class/)
 
 ## Aula 5 Exercícios
 
